@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DigitalFactory_Version_2019.4.3",
+"productVersion": "0.1",
+"dataUrl": "GameWebgl.data.unityweb",
+"wasmCodeUrl": "GameWebgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "GameWebgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "GameWebgl.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1c1"
+}
