@@ -9,7 +9,15 @@
 |---------|---------
 | unity   |unity2020   | 
 | echarts   |5.2.1  | 
-| vue   |2.6.11  | 
+| vue   |2.6.11  |  
+
+## 快速开始 
+```
+npm install
+
+npm run dev
+```
+
 <img width="1280" alt="微信图片_20250507170148" src="https://github.com/user-attachments/assets/f05afe94-740d-431f-817e-69016afe0f28" /> 
 
 # 视频演示 
