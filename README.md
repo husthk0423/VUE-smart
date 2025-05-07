@@ -19,9 +19,14 @@
 https://github.com/user-attachments/assets/7f09d4ec-e90c-428f-96c1-2abc9f56d0d4
 
 # 联系 
-1 完整版本  
-
-2 工作内推（限武汉）   
+## 1 完整版本 、工作内推（限武汉）    
 
 
-![微信图片_20250507163440](https://github.com/user-attachments/assets/d6db842a-543d-4561-872e-1cfc9a577578)
+<img src="https://github.com/user-attachments/assets/d6db842a-543d-4561-872e-1cfc9a577578" width="400" height="400"> 
+
+## 2 请我喝咖啡  
+
+<img src="https://github.com/user-attachments/assets/27587cf8-aaeb-4b1f-a2af-ff7ea06af644" width="400" height="400"> 
+
+
+
